@@ -1,0 +1,14 @@
+GET http://localhost:8080/hello
+Content-Type: application/json
+API_KEY: ABC123
+
+###
+
+GET http://localhost:8080/hello
+Content-Type: application/json
+API_KEY: DEF456
+
+###
+
+GET http://localhost:8080/hello
+Content-Type: application/json
